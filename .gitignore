@@ -1,0 +1,6 @@
+-- Active: 1786635001142@@127.0.0.1@3306@teaching
+node_modules/
+dist/
+.vscode/
+.DS_Store
+npm-debug.log*
